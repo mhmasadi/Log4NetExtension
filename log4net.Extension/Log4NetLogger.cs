@@ -17,6 +17,7 @@ namespace log4net.Extension
 
         private readonly ILog _log;
 
+//hello
         private readonly bool _skipDiagnosticLogs;
 
         private ILoggerRepository _loggerRepository;
